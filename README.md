@@ -1,6 +1,12 @@
 ## Hi there 👋
 
 Here to create and be inspired
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@itzelvillg7203/30-nites-of-code)  
+  ![@itzelvillg7203 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=itzelvillg7203)
+
+
 <!--
 **Itzelvillg/Itzelvillg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
