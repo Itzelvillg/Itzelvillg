@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/6pf9Gwzk/Diseno-sin-titulo-(2).png" width="100" style="border-radius:50%" />
+  <img src="https://i.postimg.cc/9fH7cW0y/github-banner.png" width="100" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Itzybyte</h1>
