@@ -11,10 +11,10 @@
   ML · Data Science · AI · Software Engineering
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🇲🇽-México-534AB7?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓-CSE%20Student-7F77DD?style=flat-square" />
-  <img src="https://img.shields.io/badge/🤖-ML%20Explorer-AFA9EC?style=flat-square" />
-  <img src="https://img.shields.io/badge/✨-Content%20Creator-534AB7?style=flat-square" />
+  <img src="https://img.shields.io/badge/México-🇲🇽-gray?style=flat-square" />
+  <img src="https://img.shields.io/badge/CSE%20Student-🎓-gray?style=flat-square" />
+  <img src="https://img.shields.io/badge/ML%20Explorer-🤖-gray?style=flat-square" />
+  <img src="https://img.shields.io/badge/Content%20Creator-✨-gray?style=flat-square" />
 </p>
 
 ---
